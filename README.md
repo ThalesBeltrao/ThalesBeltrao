@@ -6,4 +6,4 @@
 ### 🐍 Minha Atividade no GitHub
 ![Snake animation](https://raw.githubusercontent.com/ThalesBeltrao/ThalesBeltrao/output/github-snake.svg)
 
-https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark
+https://metrics.lecoq.io/SEUUSUARIO
