@@ -1,25 +1,27 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1cff,100:00f0ff&height=120&section=header&text=Bem-vindo!&fontSize=30&fontColor=fff"/>
-
 
 # Olá, eu sou o Thales 👋
 
-Sou estudante de tecnologia, focado em desenvolvimento e infraestrutura, usando este perfil para documentar meus estudos, testes e evolução ao longo do tempo.
+Sou estudante de tecnologia, com foco em **desenvolvimento backend e infraestrutura**, usando este perfil para documentar meus estudos, testes e evolução prática ao longo do tempo.
 
 ---
 
-## 🧠 Sobre mim (realista)
+## 🧠 Sobre mim
 - 🎓 Estudante em constante aprendizado  
-- 📚 Este GitHub é meu caderno de estudos  
-- 🧪 Aqui você vai encontrar projetos simples, testes, anotações e experimentos  
-- 🎯 Objetivo: consolidar base forte em backend, automação e cloud  
+- 📚 Este GitHub funciona como meu caderno técnico de estudos  
+- 🧪 Projetos simples, experimentos, testes e provas de conceito  
+- 🎯 Objetivo: construir base sólida em backend, automação e cloud  
 
-Não sou especialista, mas busco **constância e profundidade**, aprendendo um pouco todo dia.
+Não me considero especialista, mas busco **base sólida, prática constante e entendimento real dos fundamentos**.
 
 ---
 
-## 🐍 Minha Atividade no GitHub
-![Snake animation](https://raw.githubusercontent.com/ThalesBeltrao/ThalesBeltrao/output/github-snake.svg)
+## 🧭 Como eu estudo e desenvolvo
+- Prefiro entender como as coisas funcionam antes de usar frameworks prontos  
+- Testo tudo localmente (Linux, Docker, containers)  
+- Gosto de automatizar tarefas repetitivas  
+- Documento erros e soluções nos próprios repositórios  
+- Valorizo simplicidade, clareza e organização  
 
 ---
 
@@ -38,10 +40,27 @@ Não sou especialista, mas busco **constância e profundidade**, aprendendo um p
 
 ---
 
-## 🏗️ Infraestrutura
+## 🗄️ Bancos de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
+
+- Modelagem relacional  
+- Queries com JOIN, GROUP BY e subqueries  
+- Integração com APIs (FastAPI + SQLAlchemy)  
+- Uso em containers (Docker)  
+
+---
+
+## 🏗️ Infraestrutura & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
+</p>
+
+- Criação de imagens com Dockerfile  
+- Orquestração básica com Kubernetes  
+- Uso de variáveis de ambiente  
+- Noções de rede, portas, processos e serviços  
 
 ---
 
@@ -49,6 +68,24 @@ Não sou especialista, mas busco **constância e profundidade**, aprendendo um p
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
+
+- Commits organizados  
+- Versionamento de projetos reais  
+- Uso de branches para testes  
+
+---
+
+## 🔍 Interesses técnicos atuais
+- Estruturação de APIs reais  
+- Observabilidade (logs, métricas, health checks)  
+- Arquitetura de sistemas  
+- Automação de processos  
+- Segurança básica (auth, secrets, envs)  
+
+---
+
+## 🐍 Minha Atividade no GitHub
+![Snake animation](https://raw.githubusercontent.com/ThalesBeltrao/ThalesBeltrao/output/github-snake.svg)
 
 ---
 
@@ -59,12 +96,9 @@ Não sou especialista, mas busco **constância e profundidade**, aprendendo um p
 
 ---
 
-## 🚀 O que estou buscando aprender melhor
-- Estruturação de APIs reais com FastAPI  
-- Automação com Python e Bash  
-- Containers e orquestração  
-- Boas práticas de versionamento  
-- Organização de projetos  
+## 🚀 Em construção constante
+Este perfil não representa projetos finais, mas sim **processo de aprendizado real**, com erros, refatorações e evolução contínua.
 
----
+Meu foco é aprender bem feito, não rápido.
+
 
