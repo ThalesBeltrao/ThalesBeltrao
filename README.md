@@ -68,6 +68,3 @@ Não sou especialista, mas busco **constância e profundidade**, aprendendo um p
 
 ---
 
-## 🧭 Filosofia de estudo
-> Prefiro aprender bem o básico do que saber mal muitas coisas.  
-> Meu foco é consistência, não hype.
