@@ -5,5 +5,3 @@
 
 ### 🐍 Minha Atividade no GitHub
 ![Snake animation](https://raw.githubusercontent.com/ThalesBeltrao/ThalesBeltrao/output/github-snake.svg)
-
-https://metrics.lecoq.io/SEUUSUARIO
