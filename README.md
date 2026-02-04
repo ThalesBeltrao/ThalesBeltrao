@@ -72,7 +72,6 @@ Não me considero especialista, mas busco **base sólida, prática constante e e
 - Versionamento de projetos reais  
 - Uso de branches para testes  
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
 ---
 
