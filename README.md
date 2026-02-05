@@ -89,12 +89,6 @@ Não me considero especialista, mas busco **base sólida, prática constante e e
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://metrics.lecoq.io/ThalesBeltrao?template=classic" />
-</p>
-
----
 
 ## 🚀 Em construção constante
 Este perfil não representa projetos finais, mas sim **processo de aprendizado real**, com erros, refatorações e evolução contínua.
