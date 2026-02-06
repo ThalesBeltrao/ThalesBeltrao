@@ -93,6 +93,5 @@ Não me considero especialista, mas busco **base sólida, prática constante e e
 ## 🚀 Em construção constante
 Este perfil não representa projetos finais, mas sim **processo de aprendizado real**, com erros, refatorações e evolução contínua.
 
-Meu foco é aprender bem feito, não rápido.
 
 
