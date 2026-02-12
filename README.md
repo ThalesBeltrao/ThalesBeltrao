@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesBeltrao&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+
 # Olá, eu sou o Thales 👋
 
 Sou estudante de tecnologia, com foco em **desenvolvimento backend e infraestrutura**, usando este perfil para documentar meus estudos, testes e evolução prática ao longo do tempo.
