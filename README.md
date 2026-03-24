@@ -22,9 +22,8 @@ Não me considero especialista, mas busco **base sólida, prática constante e e
 - Documento erros e soluções nos próprios repositórios  
 - Valorizo simplicidade, clareza e organização  
 
----
-### 🏆 My GitHub Trophies
-[!["Thales's Trophies"](https://github-profile-trophy.vercel.app/?username=ThalesBeltrao&theme=onedark&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ---
 
