@@ -23,7 +23,17 @@ Não me considero especialista, mas busco **base sólida, prática constante e e
 - Valorizo simplicidade, clareza e organização  
 
 ---
+### 🏆 My GitHub Trophies
+[!["Thales's Trophies"](https://github-profile-trophy.vercel.app/?username=ThalesBeltrao&theme=onedark&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+### 🥇 Achievements & Milestones
+
+* 🏛️ **Tribunal de Justiça de SP** | Nomeado Escrevente Técnico Judiciário (2026)
+* 🎓 **Análise e Desenvolvimento de Sistemas** | Graduado (2023)
+* ⚙️ **Infraestrutura & Backend** | Especialista em Python (FastAPI), Docker e Kubernetes
+* 📊 **Data Visualization** | Criador do projeto "Aprenda.com" com Dashboards interativos
 ## 🧩 Linguagens
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,js,html,css" />
