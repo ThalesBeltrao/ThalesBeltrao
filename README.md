@@ -89,6 +89,9 @@ Não me considero especialista, mas busco **base sólida, prática constante e e
 ## 🐍 Minha Atividade no GitHub
 ![Snake animation](https://raw.githubusercontent.com/ThalesBeltrao/ThalesBeltrao/output/github-snake.svg)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-AQUI)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 
