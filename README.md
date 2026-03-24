@@ -34,6 +34,7 @@ Não me considero especialista, mas busco **base sólida, prática constante e e
 ## ⚙️ Frameworks & Bibliotecas
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,flask,pandas,numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
